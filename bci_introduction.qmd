@@ -1,0 +1,26 @@
+---
+title: "Brain Computer Interface"
+format: dashboard
+---
+
+## Column {width="33.3%"}
+
+Placeholder text 1
+
+```{r, loadpackages}
+#| echo: false
+#| include: false
+library(tidyverse)
+```
+
+```{r, starwars}
+head(starwars)
+```
+
+## Column {width="33.3%"}
+
+Placeholder text 1
+
+## Column {width="33.3%"}
+
+Placeholder text 1
